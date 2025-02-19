@@ -62,11 +62,15 @@ This Agreement constitutes the entire agreement between the parties concerning t
 ---
 
 ### **LEGAL INQUIRIES**  
-For legal inquiries, licensing requests, or other official matters, contact:  
+For legal inquiries, licensing requests, or other official matters, contact: 
+ 
 Email Address:
-legal@pixelpulse.com
+**legal@pixelpulse.com**
+**support-en@pixelpulse.com**
 
 Mailing Address:
-PixelPulse Creations, LLC
-Attn: Luke Trimmer - Legal Inqury
-23 Grandview Dr, Lake Ozark, MO
+**PixelPulse Creations, LLC**  
+**Attn: Luke Trimmer - LEGAL INQUIRY**  
+**23 Grandview Dr, Lake Ozark, MO**  
+
+We strive to acknowledge receipt of all legal inquiries within **14 business days**. Please note that response times may vary based on the complexity of the inquiry.
